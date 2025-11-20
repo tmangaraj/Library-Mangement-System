@@ -3,7 +3,6 @@
 
 A simple console-based Library Management System built using Python.
 This project allows users to view, borrow, return, and donate books. It also tracks which student has borrowed which book.
-Perfect for beginners and mini-projects.
 
 ⭐ Features
 
